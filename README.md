@@ -20,7 +20,7 @@ A repo management backend made with NodeJS and Express.
 
 ### Installing
 
-1. Clone this repo locally and install node packages:
+1. Clone this repo locally and install the required packages:
 
 ```bash
 $ git clone https://github.com/librity/ignite_repo_manager.git
